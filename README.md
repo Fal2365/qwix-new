@@ -307,8 +307,5 @@ Automated professional verification
 
 Better role-based authorization and security controls
 
-Automated tests and CI/CD
-
-Production-ready configuration management
 
 ask project for managing home-se
