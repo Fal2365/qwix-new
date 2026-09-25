@@ -220,7 +220,7 @@ Adding CSRF protection where appropriate
 
 The repository contains application screenshots in the pics/ directory and UI assets under webapp/static/.
 
-You can add selected screenshots to this README after uploading them to GitHub, for example:
+Screenshots:
 
 ![Home Page](qwix/pics/home.jpeg)
 ![Login Page](qwix/pics/login.jpeg)
@@ -311,12 +311,4 @@ Automated tests and CI/CD
 
 Production-ready configuration management
 
-📄 License
-
-Add your preferred license here, for example MIT License, before publishing the project publicly.
-
-👤 Author
-
-Falansh Upadhyay
-
-Built as a full-stack Flask project for managing home-se
+ask project for managing home-se
